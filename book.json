@@ -1,0 +1,14 @@
+{
+ 	"title": "Homelidays",
+    "plugins": ["gist", "build", "accordion", "-sharing", "splitter", "-lunr", "-search", "search-plus", "offline", "back-to-top-button", "insert-logo"],
+ 	"pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
+ 		"insert-logo": {
+ 			"url": "./lfbbops.png" }
+        },
+ 	"styles": {
+ 		"website": "styles/website.css"
+ 	}
+ }
