@@ -1,6 +1,6 @@
 {
  	"title": "Homelidays",
-    "plugins": ["gist", "build", "click-reveal","runkit", "accordion", "-sharing", "splitter", "-lunr", "-search", "search-plus", "offline", "back-to-top-button", "insert-logo"],
+    "plugins": ["bootstrap-callout","gist", "gistrun", "build", "click-reveal","runkit", "accordion", "-sharing", "splitter", "-lunr", "-search", "search-plus", "offline", "back-to-top-button", "insert-logo"],
  	"pluginsConfig": {
         "theme-default": {
             "showLevel": false

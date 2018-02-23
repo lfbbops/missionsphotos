@@ -1,4 +1,6 @@
 # Summary
 
 * [Missions Photos](README.md)
-  * [SFS](README.md#sfs)
+  * [SFS](SFS.md)
+
+  * [Carte générale](Map.md)
